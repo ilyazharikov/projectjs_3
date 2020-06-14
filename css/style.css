@@ -238,27 +238,6 @@ a {
     font-weight: 700
 }
 
-.hide {
-    display: none;
-}
-
-.show {
-    display:block
-}
-
-.fade {
-    animation-name: fade;
-    animation-duration: 1.5s;
-}
-
-@keyframes fade {
-    from {
-        opacity: 0.1;
-    }
-    to {
-        opacity: 1;
-    }
-}
 .offer {
     padding: 70px 0 100px 0;
     position: relative
@@ -734,4 +713,26 @@ a {
     display: block;
     width: 280px;
     margin: 0 auto
+}
+
+.hide {
+    display: none;
+}
+
+.show {
+    display:block
+}
+
+.fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+
+@keyframes fade {
+    from {
+        opacity: 0.1;
+    }
+    to {
+        opacity: 1;
+    }
 }
