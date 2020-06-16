@@ -1,0 +1,22 @@
+{
+  "name": "project_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilyazharikov/projectjs_3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilyazharikov/projectjs_3/issues"
+  },
+  "homepage": "https://github.com/ilyazharikov/projectjs_3#readme",
+  "devDependencies": {
+    "json-server": "^0.16.1"
+  }
+}
